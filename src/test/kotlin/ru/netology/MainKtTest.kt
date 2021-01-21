@@ -11,7 +11,7 @@ class MainKtTest {
         val itemCount = 11
         val discount = 100
         val discountStart = 1_000
-        val expected = 1_000
+        val expected = 1_100
 
         val result = calculatePrice(
             itemCount = itemCount,
